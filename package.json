@@ -1,5 +1,6 @@
 {
   "name": "rc-column-nm",
+  "homepage": "https://github.com/Jaylistisnotavailable/column",
   "version": "1.1.0",
   "private": true,
   "dependencies": {
